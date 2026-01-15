@@ -77,7 +77,7 @@ asset-inventory/
 This system is **fully functional locally**.  
 For portfolio purposes, you can view the code and structure on GitHub:
 
-- GitHub: [https://github.com/SkyG07/asset-inventory](https://github.com/SkyG07/asset-inventory)
+- GitHub: [https://github.com/SkyG07/Asset-inventory]
 
 ---
 
