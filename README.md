@@ -1,6 +1,3 @@
-
-
-```markdown
 # LGU Asset Management System
 
 A fully-featured **PHP + MySQL municipal asset management system** built for local government units (LGUs).  
