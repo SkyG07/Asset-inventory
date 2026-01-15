@@ -83,7 +83,7 @@ For portfolio purposes, you can view the code and structure on GitHub:
 - `/config/database.php` and `/uploads` are ignored for privacy/security  
 - Designed to run on **internal LGU servers** or XAMPP for testing  
 - Can be extended with QR code scanning, bulk import/export, email notifications
-```
+
 
 
 
