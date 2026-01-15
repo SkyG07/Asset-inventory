@@ -1,0 +1,15 @@
+# Ignore database exports if you don’t want to share credentials
+/config/database.php
+
+# Ignore uploads (if private files)
+uploads/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
